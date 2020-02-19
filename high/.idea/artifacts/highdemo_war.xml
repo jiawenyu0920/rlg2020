@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="highdemo:war">
+    <output-path>$PROJECT_DIR$/highdemo/target</output-path>
+    <root id="archive" name="highdemo.war">
+      <element id="artifact" artifact-name="highdemo:war exploded" />
+    </root>
+  </artifact>
+</component>

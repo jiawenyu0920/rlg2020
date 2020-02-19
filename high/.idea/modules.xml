@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hig2020/high2020.iml" filepath="$PROJECT_DIR$/hig2020/high2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/highdemo/highdemo.iml" filepath="$PROJECT_DIR$/highdemo/highdemo.iml" />
     </modules>
   </component>
 </project>
